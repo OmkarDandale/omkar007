@@ -9622,3 +9622,7 @@ textarea.form-control {
       width: 80px;
       height: auto;
     }
+
+.home-wrap .full {
+      width: 100%;
+      background: #000000; }
