@@ -8349,7 +8349,7 @@ h1, h2, h3, h4, h5,
     text-transform: uppercase;
     z-index: 1;
     color: #fff;
-    color: transparent;
+    color: snow;
     line-height: .1vh;
     -webkit-text-fill-color: transparent;
     /* Will override color (regardless of order) */
@@ -8414,7 +8414,7 @@ h1, h2, h3, h4, h5,
         left: 0;
         right: 0;
         background: #000000;
-        opacity: 0; }
+        opacity: 70%; }
       .owl-carousel.home-slider .slider-item .slider-text {
         height: 750px;
         z-index: 0; }
@@ -9623,6 +9623,6 @@ textarea.form-control {
       height: auto;
     }
 
-.home-wrap .full {
+    .home-wrap .full {
       width: 100%;
       background: #000000; }
